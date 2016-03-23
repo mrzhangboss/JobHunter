@@ -5,3 +5,4 @@ testDb.db
 !env
 env/
 *.ini
+.idea/
